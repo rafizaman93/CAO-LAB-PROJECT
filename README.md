@@ -1,7 +1,9 @@
 # CAO-LAB-PROJECT
 EasyPaisaApp on MIPS
 BSE-3B
-SE-3B Group Members: 
+Group Project on MIPS assembly language.
+Executed on Mars Compiler.
+Group Members: 
 -Hamza. 
 -Sohail. 
 -Rafi. 
